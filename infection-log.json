@@ -1,1 +1,1 @@
-{"totalMutantsCount":1040,"killedCount":573,"notCoveredCount":367,"escapedCount":80,"errorCount":4,"skippedCount":15,"timeOutCount":1,"msi":56.39,"mutationCodeCoverage":64.2,"coveredCodeMsi":87.84}
+{"totalMutantsCount":1041,"killedCount":585,"notCoveredCount":359,"escapedCount":79,"errorCount":4,"skippedCount":13,"timeOutCount":1,"msi":57.39,"mutationCodeCoverage":65.08,"coveredCodeMsi":88.19}
